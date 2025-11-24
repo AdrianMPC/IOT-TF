@@ -17,7 +17,7 @@
   const char* password = "#######";
 
   // --- CONFIG MQTT ---
-  const char* mqtt_server = "192.168.18.23";
+  const char* mqtt_server = "#################";
   const int mqtt_port = 1884; 
   const char* topic = "lima/ews/data"; //TOPIC
 
