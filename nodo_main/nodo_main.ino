@@ -13,8 +13,8 @@
   #include <PubSubClient.h>
 
   // --- CONFIG WiFi ---
-  const char* ssid = "MIRYAM";
-  const char* password = "micofe123";
+  const char* ssid = "#####";
+  const char* password = "#######";
 
   // --- CONFIG MQTT ---
   const char* mqtt_server = "192.168.18.23";
